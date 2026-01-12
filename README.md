@@ -1,6 +1,36 @@
 <h1 align="center">Hi 👋, I'm Arwa Yahya</h1>
 <h3 align="center">Full Stack .NET Developer | ITI Graduated</h3>
 
+<h3 align="left">🚀 About Me</h3>
+
+<p align="left">
+<b>Full-Stack .NET Developer</b> experienced in building complete, scalable, and user-focused web applications.
+</p>
+
+<p align="left">
+I am a graduate of the <b>Full-Stack .NET Development Program at ITI</b>, with strong hands-on experience in
+<b>C#, ASP.NET Core MVC, Web API, Entity Framework, SQL Server, LINQ, HTML, CSS, JavaScript, and Bootstrap</b>.
+</p>
+
+<p align="left">
+I enjoy working across both frontend and backend to create efficient, well-structured, and maintainable applications
+that solve real-world problems.
+</p>
+
+<p align="center">
+Currently seeking opportunities to contribute to real-world projects and grow as a professional software developer.
+</p>
+
+<h3 align="left">🛠 What I Build</h3>
+
+<ul>
+  <li>🖥️ Full-stack web applications using <b>ASP.NET Core & Angular</b></li>
+  <li>🔗 Secure and scalable <b>RESTful APIs</b></li>
+  <li>📊 Database-driven systems using <b>SQL Server</b></li>
+  <li>🎨 Responsive and modern user interfaces</li>
+  <li>⚙️ Real-world projects following clean architecture principles</li>
+</ul>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/arwa-yahya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/arwa-yahya" height="30" width="40" /></a>
