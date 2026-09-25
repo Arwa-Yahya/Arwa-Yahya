@@ -1,37 +1,37 @@
 <h1 align="center">Hi 👋, I'm Arwa Yahya</h1>
-<h3 align="center">Full Stack .NET Developer | ITI Graduated</h3>
+<h3 align="center">Backend .NET Developer | ITI Graduated</h3>
 
 <br>
 <h3 align="left">🚀 About Me</h3>
 <hr>
 
 <p align="left">
-<b>Full-Stack .NET Developer</b> experienced in building complete, scalable, and user-focused web applications.
+<b>Backend .NET Developer</b> with hands-on experience building robust, scalable, and well-structured web systems.
 </p>
 
 <p align="left">
-I am a graduate of the <b>Full-Stack .NET Development Program at ITI</b>, with strong hands-on experience in
-<b>C#, ASP.NET Core MVC, Web API, Entity Framework, SQL Server, LINQ, HTML, CSS, JavaScript, and Bootstrap</b>.
+I am a graduate of the <b>Full-Stack .NET Development Program at ITI</b>, and I currently focus on backend development using
+<b>C#, ASP.NET Core MVC, Web API, Entity Framework, SQL Server, and LINQ</b>.
 </p>
 
 <p align="left">
-I enjoy working across both frontend and backend to create efficient, well-structured, and maintainable applications
-that solve real-world problems.
+I enjoy designing clean architecture, building secure APIs, and working with well-structured databases to create efficient, maintainable applications that solve real-world problems.
 </p>
 
 <p align="left">
-Currently seeking opportunities to contribute to real-world projects and grow as a professional software developer.
+Currently seeking opportunities to contribute to real-world backend projects and grow as a professional software developer.
 </p>
+
 <br>
+
 <h3 align="left">🛠 What I Build</h3>
 <hr>
 
 <ul>
-  <li>🖥️ Full-stack web applications using <b>ASP.NET Core & Angular</b></li>
-  <li>🔗 Secure and scalable <b>RESTful APIs</b></li>
-  <li>📊 Database-driven systems using <b>SQL Server</b></li>
-  <li>🎨 Responsive and modern user interfaces</li>
-  <li>⚙️ Real-world projects following clean architecture principles</li>
+  <li>🔗 Secure and scalable <b>RESTful APIs</b> using ASP.NET Core</li>
+  <li>📊 Database-driven systems using <b>SQL Server & Entity Framework</b></li>
+  <li>🏗️ Applications following clean architecture principles (3-Tier, Onion Architecture)</li>
+  <li>⚙️ Well-structured, maintainable backend services</li>
 </ul>
 <br>
 <h3 align="left">Connect with me</h3>
