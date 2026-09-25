@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arwa Yahya</h1>
-<h3 align="center">Backend .NET Developer | ITI Graduated</h3>
+<h3 align="center">Backend .NET Developer | ITI Graduate</h3>
 
 <br>
 <h3 align="left">🚀 About Me</h3>
